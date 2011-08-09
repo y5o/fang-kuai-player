@@ -1,0 +1,12 @@
+#summary How to use it.
+
+= Introduction =
+
+FangKuaiPlayer is an automated program to play the online game at 3366.com. It requires one click to find the game region on the screen and then plays the game all by itself. It reads in the game region image, computes a clicking sequence which can solve the game with full score and then simulates mouse clicks according to that sequence.
+
+It works on Mac OS X and is developed under snow leopard.
+
+
+= Details =
+
+The video tutorial can be found here:
